@@ -1,5 +1,5 @@
 👋 Hi, I’m Morgrace  
-👀 Passionate about front-end development, modern web technologies, and UI/UX design  
+👀 Passionate about front-end development and back-end development, modern web technologies, and UI/UX design  
 🌱 Currently diving into Next.js, TypeScript, and Tailwind CSS to build performant, scalable applications  
 💞️ Open to collaborating on innovative web projects and contributing to open-source communities  
 📫 Reach me at mmorgrace@gmail.com  
