@@ -1,6 +1,20 @@
-👋 Hi, I’m Morgrace  
-👀 Passionate about front-end development and back-end development, modern web technologies, and UI/UX design  
-🌱 Currently diving into Next.js, TypeScript, and Tailwind CSS to build performant, scalable applications  
-💞️ Open to collaborating on innovative web projects and contributing to open-source communities  
-📫 Reach me at mmorgrace@gmail.com  
-⚡ Fun fact: I’m obsessed with optimizing load times and crafting accessible, pixel-perfect interfaces  
+
+Hey there, I’m Morgrace 👋
+
+I’m a full-stack developer, passionate about crafting seamless web experiences. Always exploring new tools and learning modern techniques to turn ideas into reality.
+
+---
+
+🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="30"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+</p>
+
+  
